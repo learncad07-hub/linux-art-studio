@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Linux Art Studio
+Comment=Install and manage creative and game-dev tools on Fedora
+Exec=linux-art-studio
+Icon=linux-art-studio
+Terminal=false
+Categories=Utility;System;
+Keywords=Unreal;DaVinci;Resolve;Blender;Install;

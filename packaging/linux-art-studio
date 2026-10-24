@@ -1,0 +1,2 @@
+#!/bin/sh
+exec python3 /usr/share/linux-art-studio/app/main.py "$@"

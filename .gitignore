@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+.DS_Store
+
+# internal planning notes, not for public repo
+project-plan.md
+skills-and-rules/project-rules.md
+mock-ups/
+skills-and-rules/
